@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/
+.obsidian.workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.~
+*.bak
+*.swp
+
+# Personal data (if user creates)
+vault/*/[个人]/
+vault/*/个人数据/
