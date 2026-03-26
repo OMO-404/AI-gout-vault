@@ -1,4 +1,4 @@
-# AI 痛风管理 Vault
+# AI Gout Vault
 
 > 用 AI + Obsidian 搭建私有化痛风管理系统
 
@@ -34,8 +34,8 @@
 如果你用 [Claude Code](https://claude.ai/claude-code)，clone 下来直接用就行：
 
 ```bash
-git clone https://github.com/[你的用户名]/ai-tongfeng-vault.git
-cd ai-tongfeng-vault
+git clone https://github.com/[你的用户名]/ai-gout-vault.git
+cd ai-gout-vault
 claude
 # "帮我分析这份尿酸报告"（附上照片）
 # "记录一次痛风发作"
@@ -49,7 +49,7 @@ claude
 ## 仓库结构
 
 ```
-ai-tongfeng-vault/
+ai-gout-vault/
 ├── .claude/skills/               # Claude Code Skills（自动加载）
 │   ├── uric-acid-extract.md      # 尿酸检验报告提取
 │   ├── gout-attack-record.md     # 痛风发作记录
@@ -116,7 +116,7 @@ ai-tongfeng-vault/
 
 ## 对比 AI Health Vault
 
-| 特性 | AI Health Vault | AI 痛风管理 Vault |
+| 特性 | AI Health Vault | AI Gout Vault |
 |------|-----------------|-------------------|
 | 目标用户 | 家庭健康 | 个人痛风管理 |
 | 核心功能 | 通用健康 | 痛风专项 |
